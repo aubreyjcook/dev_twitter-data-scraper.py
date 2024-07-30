@@ -116,6 +116,7 @@ For this project, a well-structured repository will help you manage the code, co
 
 arduino
 
+```
 twitter-image-saver/
 │
 ├── README.md
@@ -137,6 +138,7 @@ twitter-image-saver/
     ├── test_twitter_api.py
     ├── test_image_saver.py
     └── test_utils.py
+```
 
 Directory and File Descriptions
 
@@ -350,6 +352,7 @@ Directory Structure
 
 arduino
 
+```
 twitter-image-saver/
 │
 ├── README.md
@@ -369,6 +372,7 @@ twitter-image-saver/
 └── tests/
     ├── test_browser_automation.py
     └── test_utils.py
+```
 
 Project Setup
 
