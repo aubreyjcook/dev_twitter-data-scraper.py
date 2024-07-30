@@ -5,6 +5,8 @@ Custom scripts to scrape data from Twitter API.
 ## Purpose Statement
 
 ## Recommended Directory Structure
+
+```
 twitter-image-saver/
 │
 ├── README.md
@@ -26,3 +28,4 @@ twitter-image-saver/
     ├── test_twitter_api.py
     ├── test_image_saver.py
     └── test_utils.py
+```
